@@ -8,9 +8,9 @@ spl_autoload_register(function($class_name){
         require_once($filename);
     }
 
-//    echo $filename;
+   // echo $filename;
     //echo "<br>";
-  //  echo $class_name;
+   //echo $class_name;
 
 });
 
